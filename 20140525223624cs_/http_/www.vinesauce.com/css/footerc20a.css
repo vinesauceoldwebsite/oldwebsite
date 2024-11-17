@@ -1,0 +1,95 @@
+
+#footerContainer{
+	height: 100px;
+	background: url('../../../../20140528131656im_/http_/vinesauce.com/imgs/footerBg.png')#2A2A2A;
+}
+
+footer{
+	position: relative;
+	margin: 0px auto;
+	width: 1024px;
+	height: 70px;
+	padding-top: 30px;
+}
+#signature{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin: 0 auto;
+	padding: 10px 0;
+	width: 300px;
+}
+#signature span{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #CCC;
+	font-weight: 400;
+	float: left;
+	width: 50px;
+}
+#signature a{
+	display: block;
+}
+
+.signature-image-container{
+	height: 32px;
+	overflow: hidden;
+}
+.signature-image:hover{
+	margin-top:-32px;
+}
+
+#bgChanger{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin: 0px auto;
+	width: 312px;
+	height: 50px;
+}
+.bgText{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #CCC;
+}
+#bgChanger ul{
+	width: 190px;
+	height: 20px;
+}
+#bgChanger ul li{
+	list-style: none;
+	float: left;
+	width: 16px;
+	height: 16px;
+	margin: 10px 10px 10px 0;
+	background-image: url('../../../../20140528131656im_/http_/vinesauce.com/imgs/bgBlock.png');
+	background-position: 0 -16px;;
+}
+#bgChanger ul li:hover{
+	background-image: url('../../../../20140528131656im_/http_/vinesauce.com/imgs/bgBlock.png');
+	background-position: 0 0;
+}
+#bgChanger .active{background-position: 0 0;}
+#bgChanger .active:hover{background-position: 0 0;}
+
+
+/*
+     FILE ARCHIVED ON 22:36:24 May 25, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:24:46 Nov 17, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.666
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.018
+  esindex: 0.012
+  cdx.remote: 16.683
+  LoadShardBlock: 165.609 (3)
+  PetaboxLoader3.datanode: 141.896 (4)
+  load_resource: 162.051
+  PetaboxLoader3.resolve: 105.771
+*/
